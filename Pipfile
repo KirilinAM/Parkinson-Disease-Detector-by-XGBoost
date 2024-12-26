@@ -8,12 +8,12 @@ requests = "*"
 pandas = "*"
 matplotlib = "*"
 seaborn = "*"
-scikit-learn = "*"
+scikit-learn = "==1.5.2"
 tqdm = "*"
 icecream = "*"
-xgboost = "*"
 shap = "*"
 numpy = "==2.0"
+xgboost = "*"
 
 [dev-packages]
 
