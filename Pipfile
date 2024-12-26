@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 requests = "*"
 pandas = "*"
-matplotlib = "*"
 seaborn = "*"
 scikit-learn = "==1.5.2"
 tqdm = "*"
@@ -14,6 +13,10 @@ icecream = "*"
 shap = "*"
 numpy = "==2.0"
 xgboost = "*"
+ydata-profiling = "*"
+matplotlib = "*"
+ipykernel = "*"
+ipywidgets = "*"
 
 [dev-packages]
 
